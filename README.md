@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Portfolio project**
 
-- 🌱 I’m currently learning **Software Engineering, CS50 Computer Scinece**
+- 🌱 I’m currently learning **Software Engineering, CS50 Computer Scinece, Data Analytics**
 
 
 <h3 align="left">Connect with me:</h3>
