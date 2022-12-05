@@ -40,20 +40,20 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/ghost6781)  
 
-** Top Repositories **
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+#### Top Repositories
+<a href="https://github.com/ghost6781/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghost6781&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/ghost6781/ghost6781.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghost6781&repo=ghost6781.github.io&theme=buefy" />
 </a>
 
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
+<a href="https://twitter.com/ghost6781">
   <img align="right" alt="ghost | Twitter" width="21px" src="https://raw.githubusercontent.com/ghost6781/ghost6781/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
+<a href="https://codesandbox.io/u/ghost6781">
   <img align="right" alt="ghost | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/ghost6781/ghost6781/master/assets/codesandbox.svg" />
 </a>
