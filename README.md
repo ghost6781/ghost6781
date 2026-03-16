@@ -3,7 +3,7 @@
 ![](https://github.com/ghost6781/ghost6781/blob/main/se.png)
 
 <h1 align="center">Hi 👋, I'm Ghost</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghost6781&label=Profile%20views&color=0e75b6&style=flat" alt="ghost6781" /> </p>
 
