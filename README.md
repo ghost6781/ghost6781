@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5001&pause=1000&background=FFEFD300&center=true&vCenter=true&width=900&lines=I+am+GhOsT;don't+be+scared%2C+i+don't+bite;feel+free+to+say+hi%2C+we+can+even+have+coffee+together)](https://git.io/typing-svg)
 
-![](https://github.com/ghost6781/ghost6781/blob/main/se.png)
+![](https://github.com/ghost6781/ghost6781/blob/main/de.png)
 
 <h1 align="center">Hi 👋, I'm Ghost</h1>
 <h3 align="center">A passionate Data Engineer</h3>
