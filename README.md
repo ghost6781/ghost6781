@@ -9,7 +9,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghost6781" alt="ghost6781" /></a> </p>
 
-<img align="right" alt="programming" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🔭 I’m currently working on **Portfolio project**
 
